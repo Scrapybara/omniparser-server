@@ -6,7 +6,7 @@ authors = ["nalin <74811063+lordspline@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 fastapi = "^0.115.8"
 uvicorn = "^0.34.0"
 supervision = "0.18.0"
